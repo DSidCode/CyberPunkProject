@@ -31,6 +31,3 @@ No se requiere instalación. Simplemente clona o descarga los archivos y abre `C
 
 - HTML5
 - CSS3 (Variables, Animaciones, Pseudo-elementos)
-- Google Fonts# CyberPunkProject
-# CyberPunkProject
-# CyberPunkProject
